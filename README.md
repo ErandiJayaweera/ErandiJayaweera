@@ -1,10 +1,11 @@
 ![MasterHead](https://media0.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=ecf05e47vt9bzxas283x51gahggt8no799bjxm13gn7avfk0&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Erandi Jayaweera</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erandijayaweera&label=Profile%20views&color=0e75b6&style=flat" alt="erandijayaweera" /> </p></br>
 <img align = "right" alt="Coding" width = "200" src = "https://media4.giphy.com/media/kvpX0Vg6YZlyStGBaZ/giphy.gif?cid=ecf05e47qpv2t1p08l0ex6da11bdjak372pbphna284h3l36&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erandijayaweera&label=Profile%20views&color=0e75b6&style=flat" alt="erandijayaweera" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erandijayaweera" alt="erandijayaweera" /></a> </p>
 
