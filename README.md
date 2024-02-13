@@ -46,4 +46,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erandijayaweera&show_icons=true&locale=en" alt="erandijayaweera" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erandijayaweera&" alt="erandijayaweera" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erandijayaweera&" alt="erandijayaweera" />
+
+<img align = "right" alt="Coding" width = "300" height = "175" src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFnZm5nYXo2d2tyM2NicW91MzF5NzdweHN1dXVkaTVrMGRuM3dibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+</p>
