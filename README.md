@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Erandi Jayaweera</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="827dfe3e-c9c3-4253-8609-dcb77d4fb3e3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erandijayaweera&label=Profile%20views&color=0e75b6&style=flat" alt="erandijayaweera" /> </p>
 <p align="left"> <a href="https://twitter.com/erandijayaweera" target="blank"><img src="https://img.shields.io/twitter/follow/erandijayaweera?logo=twitter&style=for-the-badge" alt="erandijayaweera" /></a> </p>
 
